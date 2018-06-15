@@ -1,0 +1,1 @@
+web: java -jar target/margarinno_artwork-1.0.jar
