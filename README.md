@@ -9,10 +9,12 @@ git clone https://github.com/R3MH4X0R/Margarinno_Artwork.git
 Use maven to build project and run it
 ```
 mvn clean install
-java -jar target/margarinno_artwork-1.0.jar
-
 ```
-After that you can acces project through http://localhost:5000/
+Launch it
+```
+java -jar target/margarinno_artwork-1.0.jar
+```
+After that you can access project through http://localhost:5000/
 ## Built With
 * [Thymeleaf](https://www.thymeleaf.org/)
 * [Maven](https://maven.apache.org/)
