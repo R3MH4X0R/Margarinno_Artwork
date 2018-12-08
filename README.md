@@ -4,7 +4,7 @@ Simple Website gallery
 ## Install
 First of all clone the project
 ```
-git clone https://github.com/R3MH4X0R/Margarinno_Artwork.git
+git clone https://github.com/n7-remax/Margarinno_Artwork.git
 ```
 Use maven to build project and run it
 ```
